@@ -1,8 +1,14 @@
 Teste para o primeiro commit no gitHub.
 Passo a passo:
-1- abra a pasta desejada com o comando 'cd nomeDaPasta'
-2- git init
-3- git add arquivo.extensão 
+1- abra a pasta desejada com o comando 'cd nomeDaPasta';
+2- git init;
+3- git add arquivo.extensão
+4- git commit -m "primeiro commit" o -m é uma flag de mensagem;
+5- caso haja modificação do arquivo, basta envia-las: git add arquivo.extensão novamente;
+6- criar uma ramificação do repo: git branch -M master
+7- passo de sincronização do projeto: git remote add origin https://github.com/isadora-barbatto/aprendendoGit.git (cada projeto tem o seu específico);
+8- enviar para a master: git push -u origin master
 
+Essas orientações são passadas pelo próprio GitHub ao criar o novo repositório, só quis escrever com minhas palavras!
 
 Curso Matheus Battisti.
