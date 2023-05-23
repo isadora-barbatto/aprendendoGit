@@ -9,6 +9,19 @@ Passo a passo:
 7- passo de sincronização do projeto: git remote add origin https://github.com/isadora-barbatto/aprendendoGit.git (cada projeto tem o seu específico);
 8- enviar para a master: git push -u origin master
 
+
 Essas orientações são passadas pelo próprio GitHub ao criar o novo repositório, só quis escrever com minhas palavras!
+
+
+---------------------------
+
+Para adicionar um arquivo:  git add arquivo.extensão;
+Para enviar vários ao mesmo tempo: git add .;
+Para commitar o arquivo: git commit arq.ext -m "enviando o arquivo X";
+Para commitar vários arquivos ao mesmo tempo: git commit -a -m "enviando vários arquivos ao mesmo tempo" > o -a representa ALL (enviando tudo);
+
+OBS: COMMITAR x ENVIAR são coisas diferentes
+
+
 
 Curso Matheus Battisti.
