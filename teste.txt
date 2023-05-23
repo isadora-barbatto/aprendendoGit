@@ -1,0 +1,8 @@
+Teste para o primeiro commit no gitHub.
+Passo a passo:
+1- abra a pasta desejada com o comando 'cd nomeDaPasta'
+2- git init
+3- git add arquivo.extensão 
+
+
+Curso Matheus Battisti.
