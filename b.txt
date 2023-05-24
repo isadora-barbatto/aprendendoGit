@@ -1,0 +1,8 @@
+para criar uma pasta clone:
+
+abrir o repositório no servidor;
+clicar no botão CODE;
+copiar o link https;
+abrir o editor de código;
+criar a pasta para trazer os arquivos do servidor;
+dar o comando: git clone linkDoGitHub;
