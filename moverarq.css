@@ -5,7 +5,7 @@ ex: por descuido, criei o arquivo CSS fora da pasta de CSS; Isso não é uma boa
 
 para MOVÊ-LO: git mv arq.ext pasta/arq.ext > 
 
-para corrigir o exemplo cidado acima: git mv moverarq.css css/moverarq.ext
+para corrigir o exemplo cidado acima: git mv moverarq.css css/moverarq.css
 
 
 */
