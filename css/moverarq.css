@@ -7,5 +7,6 @@ para MOVÊ-LO: git mv arq.ext pasta/arq.ext >
 
 para corrigir o exemplo cidado acima: git mv moverarq.css css/moverarq.css
 
+para RENOMEA-LO: git mv css/moverarq.css css/mover_arq.css > mesma forma, porém adicionar o nome novo depois do espaço
 
 */
