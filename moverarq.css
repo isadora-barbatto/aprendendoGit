@@ -1,0 +1,11 @@
+/* é possível mover ou renomear um arquivo de um local para outro (no caso aqui, de uma pasta para a outra);
+comando git mv 
+
+ex: por descuido, criei o arquivo CSS fora da pasta de CSS; Isso não é uma boa prática, o ideal é que fiquem todos os arquivos de mesma extensão juntos (se fizer sentido).
+
+para MOVÊ-LO: git mv arq.ext pasta/arq.ext > 
+
+para corrigir o exemplo cidado acima: git mv moverarq.css css/moverarq.ext
+
+
+*/
