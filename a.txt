@@ -1,0 +1,3 @@
+Para criar novos arquivos para o projeto, deve-se cria-los na aba explorer do vscode ou no new file do github;
+
+criei esse arquivo novo pra ver como será adicionado a pasta clone;
